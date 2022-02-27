@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AASA,AACI,OADG,CACH,YAAY,CAAC;EACT,SAAS,EAAE,IAAI;EACf,UAAU,EAAE,MAAM;CACrB;;AAJL,AAKI,OALG,CAKH,YAAY,CAAC,CAAC,CAAC;EACX,KAAK,EAAE,OAAkB;CAC5B",
+    "sources": [
+        "../sass/main.scss",
+        "../sass/_colors.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}
